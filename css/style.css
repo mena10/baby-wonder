@@ -1,0 +1,704 @@
+.import{
+
+width:100% ;
+height:700px ;
+background-image: url(../image/fa868ec7-fbda-49e5-8600-662eef35d1cd.jpg);
+
+background-size: cover;
+
+
+
+
+}
+
+.smaller{
+
+width:100% ;
+height: 120px;
+background-color: #fcb900;
+
+}
+
+.smaller{ 
+
+    display: flex;
+
+
+ } 
+
+*{
+margin: 0px;
+padding: 0px;
+
+}
+
+.smaller img{
+
+margin-left: 200px;
+}
+
+.smaller li{
+display: inline;
+
+margin-left: 20px;
+margin-right: 20px;
+
+}
+.smaller ul{
+margin-top: 50px;
+color: white;
+font-size: 20px;
+margin-left: 27px;
+}
+
+.smaller button{
+width: 150px;
+height: 40px;
+border-radius:40px;
+margin-top: 40px;
+margin-left: 60px;
+background-color: rgb(226 53 48);
+color: white;
+font-size: 20px;
+border: none;
+}
+
+.dream{
+display: flex;
+color: white;
+
+
+}
+.dream h2{
+
+padding-top: 150px;
+padding-left: 70px;
+font-size: 87px;
+}
+.dream img{
+ width:640px ;
+ height:450px ;
+ padding-top: 59px;
+ 
+}
+
+
+.nom h2{
+
+    padding-top: 70px;
+
+color: rgb(96, 96, 248);
+
+font-size: 50px;
+
+padding-left: 300px;
+}
+.book img{
+width:400 ;
+height:420 ;
+border-radius: 60px;
+
+}
+
+.pen img{
+
+    width:400 ;
+    height:420 ;
+    border-radius: 60px;
+
+}
+.eraser img{
+
+    width:400 ;
+    height:420 ;
+    border-radius: 60px;
+
+}
+
+.screen {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-top: 50px;
+}
+.book h3{
+
+font-size: 30px;
+
+color: rgb(96, 96, 248);
+padding-left: 70px;
+padding-top: 20px;
+padding-bottom: 20px;
+
+}
+
+.book p{
+font-size: 25px;
+    color: rgb(96, 96, 248);
+    padding-left: 50px;
+
+}
+
+.pen h3{
+
+    font-size: 30px;
+
+    color: rgb(96, 96, 248);
+    padding-left: 70px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.pen p{
+
+
+    font-size: 25px;
+    color: rgb(96, 96, 248);
+    padding-left: 50px;
+
+}
+.eraser h3{
+
+    font-size: 30px;
+
+    color: rgb(96, 96, 248);
+    padding-left: 70px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+
+
+}
+
+.eraser p{
+
+    
+    font-size: 25px;
+    color: rgb(96, 96, 248);
+    padding-left: 50px;
+
+}
+.book button{
+    
+ width: 160px;
+height: 49px;
+border-radius:40px;
+background-color: red;
+color: white;
+margin-left: 134px;
+margin-top: 20px;
+font-size: 20px;
+border: none;
+}
+
+.pen button {
+
+    width: 160px;
+    height: 49px;
+    border-radius:40px;
+    background-color: red;
+    color: white;
+    margin-left: 134px;
+    margin-top: 20px;
+    font-size: 20px;
+    border: none;
+}
+
+
+
+.eraser button{
+    width: 160px;
+    height: 49px;
+    border-radius:40px;
+    background-color: red;
+    color: white;
+    margin-left: 134px;
+    margin-top: 20px;
+    font-size: 20px;
+    border: none;
+}
+.cloud img{
+width: 100%;
+padding-top: 40px;
+
+
+}
+body{
+
+background-color: #f7f7f7;
+
+}
+
+.cloud h1{
+
+font-size: 40px;
+color: rgb(139, 139, 236);
+margin-top: -200px;
+text-align: center;
+}
+.cloud{
+
+font-size: 30px;
+color: rgb(139, 139, 236);
+margin-top: -40px;
+text-align: center;
+}
+.cloud p{
+
+font-size: 25px;
+padding-top: 25px;
+color: rgb(13, 73, 202);
+}
+
+
+.ishi h1{
+
+color: rgb(110, 182, 3);
+
+padding-top: 60px;
+
+padding-left: 400px;
+
+font-size: 37px;
+
+}
+.psycho{
+
+height:270px ;
+width: 400px;
+background-color:#ab7d90;
+margin-top: 30px;
+border-radius: 20px;
+
+
+}
+
+.lq{
+    height:270px ;
+    width: 400px;
+    background-color: #8DC540;
+    margin-top: 30px;
+    border-radius: 20px;
+}
+.yandire{
+
+    height:270px ;
+    width: 400px;
+    background-color: #eed793;
+    margin-top: 30px;
+    border-radius: 20px;
+
+}
+
+.ryoba{
+
+display: flex;
+justify-content: space-evenly;
+
+}
+.psycho i{
+
+
+margin-left: 25px;
+padding-top: 20px;
+font-size: 40px;
+color: white;
+}
+.lq i{
+
+    margin-left: 25px;
+    padding-top: 20px;
+    font-size: 40px;
+    color: white;
+}
+
+
+.yandire i{
+
+    margin-left: 25px;
+    padding-top: 20px;
+    font-size: 40px;
+    color: white;
+
+}
+
+.psycho h2{
+
+padding-top: 20px;
+font-size: 30px;
+color: white;
+padding-left: 20px;
+padding-bottom: 20px;
+}
+
+
+.lq h2{
+
+    padding-top: 20px;
+    font-size: 30px;
+    color: white;
+padding-left: 20px;
+padding-bottom: 20px;
+}
+
+
+.yandire h2{
+
+    padding-top: 10px;
+    font-size: 30px;
+    color: white;
+padding-left: 20px;
+padding-bottom: 20px;
+}
+
+.psycho p{
+
+color: white;
+ padding-left: 20px;
+padding-top: 5px;
+ font-size: 24px;
+}
+
+.lq p{
+
+    color: white;
+    padding-left: 20px;
+   padding-top: 5px;
+    font-size: 24px;
+}
+
+
+.yandire p{
+    color: white;
+    padding-left: 20px;
+   padding-top: 5px;
+    font-size: 24px;
+
+}
+
+.bromin{
+
+    height:270px ;
+    width: 400px;
+    background-color:#ec97b8;
+    margin-top: 30px;
+    border-radius: 20px;
+    
+    
+    }
+    
+    .mallgirl{
+        height:270px ;
+        width: 400px;
+        background-color: #9dd3db;
+        margin-top: 30px;
+        border-radius: 20px;
+    }
+    .angle{
+    
+        height:270px ;
+        width: 400px;
+        background-color:#f6a6ff;
+        margin-top: 30px;
+        border-radius: 20px;
+    
+    }
+    
+    .card67{
+    
+    display: flex;
+    justify-content: space-evenly;
+    
+    }
+    .bromin i{
+    
+    
+    margin-left: 25px;
+    padding-top: 20px;
+    font-size: 40px;
+    color: white;
+    }
+    .mallgirl i{
+    
+        margin-left: 25px;
+        padding-top: 20px;
+        font-size: 40px;
+        color: white;
+    }
+    
+    
+    .angle i{
+    
+        margin-left: 25px;
+        padding-top: 20px;
+        font-size: 40px;
+        color: white;
+    
+    }
+    
+    .bromin h2{
+    
+    padding-top: 20px;
+    font-size: 30px;
+    color: white;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    }
+    
+    
+    .mallgirl h2{
+    
+        padding-top: 20px;
+        font-size: 30px;
+        color: white;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    }
+    
+    
+    .angle h2{
+    
+        padding-top: 10px;
+        font-size: 30px;
+        color: white;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    }
+    
+    .bromin p{
+    
+    color: white;
+     padding-left: 20px;
+    padding-top: 5px;
+     font-size: 24px;
+    }
+    
+    .mallgirl p{
+    
+        color: white;
+        padding-left: 20px;
+       padding-top: 5px;
+        font-size: 24px;
+    }
+    
+    
+    .angle p{
+        color: white;
+        padding-left: 20px;
+       padding-top: 5px;
+        font-size: 24px;
+    
+    }
+
+
+
+    .block button{
+        width: 384px;
+        height: 57px;
+        border-radius:40px;
+        margin-top: 40px;
+        margin-left: 60px;
+        background-color: #920f92;
+        color: white;
+        font-size: 20px;
+        border: none;
+        margin-left: 480px;
+        }
+
+.tap{
+
+width:800px  ;
+height:670px ;
+border-radius: 20px;
+background-color: #8CC63E;
+margin-left: 170px;
+text-align: center;
+color: white;
+padding: 70px;
+}
+.bedroom h2{
+padding-bottom: 40px;
+
+font-size: 40px;
+}
+
+.bedroom p{
+font-size: 25px;
+}
+
+.bedroom i{
+
+
+border: 3px solid white;
+padding: 10px;
+border-radius: 20px;
+margin-top: 15px;
+margin-right: 560px;
+}
+
+.enjio p{
+
+margin-top: -40px;
+
+}
+.enjio{
+
+margin-bottom: 20px;
+}
+
+.same p{
+
+    margin-top: -40px;
+}
+
+.same{
+    margin-bottom: 20px;
+}
+
+.turn p{
+
+    margin-top: -40px;   
+}
+
+.turn{
+
+    margin-bottom: 20px;
+}
+
+.equl p{
+
+    margin-top: -40px;  
+}
+
+.equl{
+
+    margin-bottom: 20px;
+}
+
+.carpets button{
+
+width: 384px;
+ height: 57px;
+ border: 3px solid white;
+ border-radius:40px;
+ margin-top: 80px;
+margin-left: 60px;
+ background-color:#8CC63E ;
+color: white;
+ font-size: 20px;
+margin-left: -20px;
+}
+
+
+.bed h2{
+
+font-size: 53px;
+    color: #09566b;
+    margin-left: 150px;
+
+
+}
+
+.bed p{
+
+font-size: 24px;
+color: #1e94b4;
+margin-top: 10px;
+margin-left: 150px;
+}
+
+
+.tokuo .icon3 {
+
+    font-size: 59px;
+padding-top: -100px;
+padding-left: 1029px;
+    color: #8DC540;
+}
+.tokuo p{
+font-size: 23px;
+width: 850px;
+
+}
+
+.tokuo{
+
+    padding-left: 100px;
+padding-top: -60px;
+}
+
+.tokuo .icon2{
+
+font-size: 59px;
+color: #8DC540;
+padding-top: 40px;
+
+}
+
+
+
+.gate{
+
+width:1200px ;
+height:450px ;
+background-image:url(../image/3582693f-e2f2-4599-8b97-3ce3f3477d21.jpg) ;
+margin: auto;
+border-radius: 20px;
+background-attachment: fixed;
+background-position: center;
+text-align: center;
+}
+
+.gate h2{
+text-align: center;
+    font-size: 40px;
+color: white;
+padding-top: 60px; 
+padding-bottom: 30px;
+
+}
+
+.gate p{
+
+    font-size: 25px;
+    color:white;
+    width: 880px;
+    padding-left: 200px;
+    padding-bottom: 30px;
+}
+
+.gate button{
+
+    width: 200px;
+    height: 60px;
+    border-radius:40px;
+    background-color: #f8673f;
+    color: white;
+    font-size: 20px;
+    border: none;
+
+}
+
+.lilipop{
+text-align: center;
+    width:100% ; 
+     height:300px ; 
+    background-image: url(../image/f830b5a3-a057-463c-926a-eec8a746df86.jpg);
+    background-size: cover;
+
+}
+
+.lilipop img {
+width: 100px;
+padding-top: 100px;
+height:100px ;
+}
+
+.bayllabd{
+width: 100%;
+
+
+}
+
